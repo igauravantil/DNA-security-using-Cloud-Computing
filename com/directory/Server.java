@@ -1,4 +1,4 @@
-package javaapplication;
+package com.directory;
 
  
 import java.io.DataInputStream;
@@ -6,7 +6,7 @@ import java.io.DataOutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.LinkedList;
-
+import com.directory.Connection;
  
 import javax.swing.JTextArea; 
 
